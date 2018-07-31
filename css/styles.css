@@ -26,7 +26,7 @@ body {
   bottom: 0;
   left: 0;
   height: 400px;
-  background-image: url("/assets/clouds2.png");
+  background-image: url("../assets/clouds2.png");
   background-repeat: repeat-x;
   background-size: 3792px;
   width: 11376px;
@@ -45,7 +45,7 @@ body {
     left: 0;
     height: 330px;
     width: 100%;
-    background-image: url("/assets/clouds2.png");
+    background-image: url("../assets/clouds2.png");
     background-repeat: repeat-x;
     background-size: 3792px;
     width: 11376px;
@@ -63,7 +63,7 @@ body {
   height: 460px;
   width: 100%;
   opacity: 0.3;
-  background-image: url("/assets/clouds2.png");
+  background-image: url("../assets/clouds2.png");
   background-repeat: repeat-x;
   background-size: 3792px;
   width: 11376px;
@@ -83,7 +83,7 @@ body {
     height: 300px;
     width: 100%;
     opacity: 0.3;
-    background-image: url("/assets/clouds2.png");
+    background-image: url("../assets/clouds2.png");
     background-repeat: repeat-x;
     background-size: 3792px;
     width: 11376px;
@@ -101,7 +101,7 @@ body {
   height: 460px;
   width: 100%;
   opacity: 0.3;
-  background-image: url("/assets/clouds2.png");
+  background-image: url("../assets/clouds2.png");
   background-repeat: repeat-x;
   background-size: 3792px;
   width: 11376px;
@@ -120,7 +120,7 @@ body {
   height: 500px;
   width: 100%;
   opacity: 0.3;
-  background-image: url("/assets/clouds3.png");
+  background-image: url("../assets/clouds3.png");
   background-repeat: repeat-x;
   background-size: 3792px;
   width: 11376px;
